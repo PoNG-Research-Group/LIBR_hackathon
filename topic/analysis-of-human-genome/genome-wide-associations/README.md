@@ -1,0 +1,3 @@
+# Genome Wide Associations
+
+The genome wide associations study (GWAS) can be thought as regressing the genetic variant on the outcome of interest, one variant at a time. So, theoretically, any statistical package can do GWAS. However, the issue is about the scale. Take UKBiobank for example, the imputed genotypes has more than 5 million signle nucleotide polymorphisms (SNPs) and 500K participants. Even a simple linear regression which scaled by NxM (500K X 5 million), it will take 2.5e12 times to run, let alone the constrain of memory and input/output cost. Furthermore, because the flexibility of the linear mixed effects (LME) model, it is often to see GWAS using LME to take into account of complex study design and polygenic background.&#x20;
