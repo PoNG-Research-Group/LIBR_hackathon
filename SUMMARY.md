@@ -10,6 +10,7 @@
 
 ## 💡 Topic
 
+* [Some Tips on Coding Practice](topic/some-tips-on-coding-practice.md)
 * [Data Exploration](topic/data-exploration/README.md)
   * [UKBiobank Data Exploration GUI](topic/data-exploration/ukbiobank-data-exploration-gui.md)
   * [ABCD DEAP GUI](topic/data-exploration/abcd-deap-gui.md)
