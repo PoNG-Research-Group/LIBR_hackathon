@@ -19,7 +19,7 @@
   * [Evaluating the Population Structure](topic/analysis-of-human-genome/evaluating-the-population-structure.md)
   * [Genome Wide Associations](topic/analysis-of-human-genome/genome-wide-associations/README.md)
     * [Commonly used softwares](topic/analysis-of-human-genome/genome-wide-associations/commonly-used-softwares.md)
-    * [Use GENESIS package in R](topic/analysis-of-human-genome/genome-wide-associations/use-genesis-package-in-r.md)
+    * [Using GENESIS Package in R](topic/analysis-of-human-genome/genome-wide-associations/using-genesis-package-in-r.md)
   * [Polygenic Inference](topic/analysis-of-human-genome/polygenic-inference.md)
   * [Polygenic Score](topic/analysis-of-human-genome/polygenic-score.md)
   * [Mendelian Randomization](topic/analysis-of-human-genome/mendelian-randomization.md)
