@@ -21,10 +21,14 @@ The GWAS analysis usually involves the following step:\
 
 1\) Converting the genotype data into required format while filtering the genetic variants according to minor allele frequencies (usually greater than 0.005) and HWE (usually goodness of fit p < 1e-6). \
 \
-2\) Calculating the relatedness matrix and deriving the genetic principal components given a set of independent genetic variants (selecting SNPs based on [<mark style="color:yellow;">**Linkage Disequilibrium**</mark>](https://www.nature.com/articles/nrg2361)) \
+2\) Calculating <mark style="color:yellow;">**the relatedness matrix**</mark> and deriving <mark style="color:yellow;">**the genetic principal components**</mark> given a set of independent genetic variants (selecting SNPs based on [<mark style="color:yellow;">**Linkage Disequilibrium**</mark>](https://www.nature.com/articles/nrg2361)) \
 \
 3\) Clean up the phenotype spreadsheet and the covariate spreadsheet\
 \
 4\) Put all of them together and feed into the software of choose to get the GWAS results \
 \
 5\) Run post-GWAS softwares on the summary statistics to obtain more interpretable results
+
+### Code Example
+
+See [using-genesis-for-genetic-analysis.md](../../../about-libr-hackathon/study-materials/code-examples/using-genesis-for-genetic-analysis.md "mention")

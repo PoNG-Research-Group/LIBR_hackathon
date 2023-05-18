@@ -6,7 +6,8 @@
 * [🚀 Study Materials](about-libr-hackathon/study-materials/README.md)
   * [Schedule](about-libr-hackathon/study-materials/schedule.md)
   * [Slides](about-libr-hackathon/study-materials/slides.md)
-  * [Code Examples](about-libr-hackathon/study-materials/code-examples.md)
+  * [Code Examples](about-libr-hackathon/study-materials/code-examples/README.md)
+    * [Using GENESIS for Genetic Analysis](about-libr-hackathon/study-materials/code-examples/using-genesis-for-genetic-analysis.md)
 
 ## 💡 Topic
 
@@ -16,12 +17,11 @@
   * [ABCD DEAP GUI](topic/data-exploration/abcd-deap-gui.md)
 * [Analysis of Human Genome](topic/analysis-of-human-genome/README.md)
   * [Processing Genotype Data](topic/analysis-of-human-genome/processing-genotype-data.md)
-  * [Evaluating the Population Structure](topic/analysis-of-human-genome/evaluating-the-population-structure.md)
   * [Genome Wide Associations](topic/analysis-of-human-genome/genome-wide-associations/README.md)
-    * [Commonly used softwares](topic/analysis-of-human-genome/genome-wide-associations/commonly-used-softwares.md)
-    * [Using GENESIS Package in R](topic/analysis-of-human-genome/genome-wide-associations/using-genesis-package-in-r.md)
-  * [Polygenic Inference](topic/analysis-of-human-genome/polygenic-inference.md)
-  * [Polygenic Score](topic/analysis-of-human-genome/polygenic-score.md)
+    * [Other commonly used softwares](topic/analysis-of-human-genome/genome-wide-associations/other-commonly-used-softwares.md)
+  * [Polygenic Analysis](topic/analysis-of-human-genome/polygenic-analysis/README.md)
+    * [Heritability and Genetic Correlations](topic/analysis-of-human-genome/polygenic-analysis/heritability-and-genetic-correlations.md)
+    * [Polygenic Score](topic/analysis-of-human-genome/polygenic-analysis/polygenic-score.md)
   * [Mendelian Randomization](topic/analysis-of-human-genome/mendelian-randomization.md)
 * [Confound and Biases](topic/confound-and-biases.md)
 * [High Dimensional Data Analysis](topic/high-dimensional-data-analysis.md)

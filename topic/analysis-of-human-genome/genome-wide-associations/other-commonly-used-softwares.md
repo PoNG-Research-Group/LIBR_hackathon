@@ -1,6 +1,7 @@
-# Commonly used softwares
+# Other commonly used softwares
 
-Many software suites are tailored to enable biobank level GWAS. Here are some popular ones:
+Many software suites are tailored to enable biobank level GWAS. Here are some popular ones:\
+(Note, you don't need to know them all, all of them are designed to be self-contained, mostly.)
 
 ### GENESIS&#x20;
 

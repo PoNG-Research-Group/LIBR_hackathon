@@ -1,4 +1,4 @@
-# Using GENESIS Package in R
+# Using GENESIS for Genetic Analysis
 
 ## Performing genetic analysis in the R environment
 

@@ -25,7 +25,7 @@ VCFtools\
 
 ### LIBR Hackathon Dataset
 
-In this hackathon event, we focus on the imputed genotype data from UKBiobank. Fortunately, we don't need to process the data ourselves as the UKBiobank research team already provides well curated imputed genotype data. We further cleaned up the data (Filtering minor allele frequencies and HWE) and converted them into easier to access format (PLINK), to ensure the genetic data is ready to be analyzed. To access the data, see [ukbiobank-data-exploration-gui.md](../data-exploration/ukbiobank-data-exploration-gui.md "mention")
+<mark style="color:yellow;">**In this hackathon event, we focus on the imputed genotype data from UKBiobank.**</mark> Fortunately, we don't need to process the data ourselves as the UKBiobank research team already provides well curated imputed genotype data. We further cleaned up the data (Filtering minor allele frequencies and HWE) and converted them into easier to access format (PLINK), to ensure the genetic data is ready to be analyzed. To access the data, see [ukbiobank-data-exploration-gui.md](../data-exploration/ukbiobank-data-exploration-gui.md "mention")
 
 ### References
 
