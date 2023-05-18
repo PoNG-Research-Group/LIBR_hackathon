@@ -1,5 +1,15 @@
 # UKBiobank Data Exploration GUI
 
+## Genetic Data
+
+The genetic data is only available through LIBR server, which is located at: `/media/cephfs/labs/PoNGCenter/data-collections/UKB_SHARE/genome`
+
+### Raw Imaging NIFTI
+
+The bulk imaging nifti files are only available through LIBR server under controlled folder. We are in process of cross-study harmonization. For interested user, please contact us for further information. Meanwhile, for [the derived imaging variables from the official data release](https://biobank.ctsu.ox.ac.uk/crystal/crystal/docs/brain\_mri.pdf), you can find it in the LIBR UKB data protal [#tabular-data](ukbiobank-data-exploration-gui.md#tabular-data "mention").&#x20;
+
+## Tabular Data
+
 ### URL
 
 [http://ukbdb.laureateinstitute.org/](http://ukbdb.laureateinstitute.org/) (using "http", not "https")
