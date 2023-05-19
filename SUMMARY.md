@@ -20,6 +20,7 @@
   * [Processing Genotype Data](topic/analysis-of-human-genome/processing-genotype-data.md)
   * [Genome Wide Associations](topic/analysis-of-human-genome/genome-wide-associations/README.md)
     * [Other commonly used softwares](topic/analysis-of-human-genome/genome-wide-associations/other-commonly-used-softwares.md)
+    * [Post-GWAS interpretations](https://fuma.ctglab.nl/tutorial)
   * [Polygenic Analysis](topic/analysis-of-human-genome/polygenic-analysis/README.md)
     * [Polygenic Score](topic/analysis-of-human-genome/polygenic-analysis/polygenic-score.md)
     * [Heritability and Genetic Correlations](topic/analysis-of-human-genome/polygenic-analysis/heritability-and-genetic-correlations.md)
