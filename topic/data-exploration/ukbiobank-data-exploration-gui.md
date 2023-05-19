@@ -2,7 +2,7 @@
 
 ## Genetic Data
 
-The genetic data is only available through LIBR server, which is located at: `/media/cephfs/labs/PoNGCenter/data-collections/UKB_SHARE/genome`
+The genetic data is only available through LIBR server, will send out the info via secured channel accordingly.&#x20;
 
 ### Raw Imaging NIFTI
 
@@ -16,7 +16,7 @@ The bulk imaging nifti files are only available through LIBR server under contro
 
 ### Login
 
-The following screenshot is the login page, the default username and password are your LIBR ID (i.e., the LIBR email address without the domain name). For example, my LIBR email address is "bxu@laureateinstitute.org", so the default username is "bxu" and defualt password is "bxu" as well.
+The following screenshot is the login page, the default username and password are based on your LIBR credentials. Please contact Bohan if you need help.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
