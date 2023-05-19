@@ -6,13 +6,13 @@
 * [🚀 Study Materials](about-libr-hackathon/study-materials/README.md)
   * [Schedule](about-libr-hackathon/study-materials/schedule.md)
   * [Slides](about-libr-hackathon/study-materials/slides.md)
-  * [Code Examples](about-libr-hackathon/study-materials/code-examples/README.md)
-    * [Handling parquet and population structure](https://drive.google.com/file/d/1JJLRMN-3Qpt6ypQ-p25icHZiE89rtIr3/view?usp=share\_link)
-    * [Using GENESIS for Genetic Analysis](about-libr-hackathon/study-materials/code-examples/using-genesis-for-genetic-analysis.md)
 
 ## 💡 Topic
 
-* [Some Tips on Coding Practice](topic/some-tips-on-coding-practice.md)
+* [Some Tips on Coding Practice](topic/some-tips-on-coding-practice/README.md)
+  * [Code Examples](topic/some-tips-on-coding-practice/code-examples/README.md)
+    * [Handling parquet and population structure](https://drive.google.com/file/d/1JJLRMN-3Qpt6ypQ-p25icHZiE89rtIr3/view?usp=share\_link)
+    * [Using GENESIS for Genetic Analysis](topic/some-tips-on-coding-practice/code-examples/using-genesis-for-genetic-analysis.md)
 * [Data Exploration](topic/data-exploration/README.md)
   * [UKBiobank Data Exploration GUI](topic/data-exploration/ukbiobank-data-exploration-gui.md)
   * [ABCD DEAP GUI](topic/data-exploration/abcd-deap-gui.md)
