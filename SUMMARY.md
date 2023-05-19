@@ -7,8 +7,8 @@
   * [Schedule](about-libr-hackathon/study-materials/schedule.md)
   * [Slides](about-libr-hackathon/study-materials/slides.md)
   * [Code Examples](about-libr-hackathon/study-materials/code-examples/README.md)
-    * [Using GENESIS for Genetic Analysis](about-libr-hackathon/study-materials/code-examples/using-genesis-for-genetic-analysis.md)
     * [Handling parquet and population structure](https://drive.google.com/file/d/1JJLRMN-3Qpt6ypQ-p25icHZiE89rtIr3/view?usp=share\_link)
+    * [Using GENESIS for Genetic Analysis](about-libr-hackathon/study-materials/code-examples/using-genesis-for-genetic-analysis.md)
 
 ## 💡 Topic
 

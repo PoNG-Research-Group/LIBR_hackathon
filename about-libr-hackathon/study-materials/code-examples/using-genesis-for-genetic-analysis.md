@@ -2,6 +2,15 @@
 
 ## Performing genetic analysis in the R environment
 
+This example code was used to analyze the ABCD data. It can be easily modified to take in UKB dataset if you consider the following changes:\
+1\. Parsing parquet file in R\
+&#x20;  [.](./ "mention")\
+\
+2\. Use UKB pruned set for calculating the genetic relatedness matrix and PCs \
+&#x20;   \
+3\. Do the GWAS one chromosome at a time given the full UKB imputed data\
+
+
 ### Part I - Estimating the population structure
 
 This part is using the GENESIS to handle the genetic data
@@ -24,7 +33,7 @@ The code essentially lifts from the two tutorials in the package documentation(h
 
 ```R
 # Genetics (plink format)
-fn_prefix='UKB'
+fn_prefix='XXXXX'
 phenotype_csv=''
 outfile='/path/to/out/assoc_stats.tsv'
 
