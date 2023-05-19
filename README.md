@@ -1,7 +1,6 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjb2RlfGVufDB8fHx8MTY4NDE3NjY5OHww&ixlib=rb-4.0.3&q=85
-coverY: 0
+cover: .gitbook/assets/images.jpeg
+coverY: 221
 ---
 
 # ⚽ Our goal
