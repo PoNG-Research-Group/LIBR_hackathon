@@ -31,4 +31,4 @@ The GWAS analysis usually involves the following step:\
 
 ### Code Example
 
-See [using-genesis-for-genetic-analysis.md](../../some-tips-on-coding-practice/code-examples/using-genesis-for-genetic-analysis.md "mention")
+See [using-genesis-for-genetic-analysis.md](../../../about-libr-hackathon/study-materials/code-examples/using-genesis-for-genetic-analysis.md "mention")
