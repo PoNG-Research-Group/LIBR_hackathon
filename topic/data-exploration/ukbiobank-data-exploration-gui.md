@@ -12,11 +12,11 @@ The bulk imaging nifti files are only available through LIBR server under contro
 
 ### URL
 
-[http://ukbdb.laureateinstitute.org/](http://ukbdb.laureateinstitute.org/) (using "http", not "https")
+Provided through secure channel.&#x20;
 
 ### Login
 
-The following screenshot is the login page, the default username and password are based on your LIBR credentials. Please contact Bohan if you need help.&#x20;
+The following screenshot is the login page, please use the appropriate login credential.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
