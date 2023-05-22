@@ -12,9 +12,10 @@ description: >-
 Morning Lectures - Starting at 10:00 CT\
 \
 Section 1. Introduction to the population neuroscience data (25 mins)\
-Section 2. UKBiobank data showcase (25 mins) \
-Section 3. Biases and Confounds in observational study - part 1 (25 mins)\
-Section 4. Biases and Confounds in observational study - part 2 (25 mins)
+Section 2. UKBiobank data showcase (25 mins)\
+Section 3. Longitudinal Analysis (25 mins)\
+Section 4. Survival Analysis (25 mins)\
+
 
 Lunchdon - 12 to 13 CT&#x20;
 
@@ -29,8 +30,8 @@ Morning Lectures - Starting at 10:00 CT\
 \
 Section 1. Analysis of Human Genome (25 mins)\
 Section 2. High dimensional data analysis (25 mins)\
-Section 3. Bias and Confounds sensitivity analysis (25 mins)\
-Section 4. Longitudinal and survival analysis (25 mins)
+Section 3. Biases and Confounds in observational study - part 1 (25 mins)\
+Section 4. Biases and Confounds in observational study - part 2 (25 mins)
 
 Lunchdon - 12 to 13 CT&#x20;
 
